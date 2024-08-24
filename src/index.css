@@ -1,0 +1,30 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+.motors{
+  background-image: url(../src/assets/motors.png);
+}
+
+.motors2{
+  background-image: url(../src//assets/caravan-back.jpg);
+}
+.motors3{
+  background-image: url(../src//assets/tuning-back.jpg);
+}
+.motors4{
+  background-image: url(../src//assets/used-back.jpg);
+}
+.motors5{
+  background-image: url(../src//assets/camping-backround.jpg);
+}
+.error{
+  width: 100%;
+
+}
+.Link{
+  text-decoration: none;
+}
